@@ -1,2 +1,2 @@
-# feedback.html
+# feedback form
 Hotels Feedback form
