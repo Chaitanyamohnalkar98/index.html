@@ -1,2 +1,2 @@
-# index.html
+# feedback.htnl
 Hotels Feedback form
